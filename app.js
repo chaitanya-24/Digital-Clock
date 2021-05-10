@@ -41,6 +41,3 @@ function addZero(i){
 }
 
 setInterval(digitalClock, 1000);
-
-// let d1 = new Date();
-// console.log(d1.getDay());
